@@ -1,0 +1,21 @@
+{
+  error:0,
+  status: "Tidak ada error kali ini",
+  "portofolio": [
+    {
+      "id":"1",
+      "bidang":"frontend",
+      "deskripsi":"waktu itu pernah jadi frontend"
+    },
+    {
+     "id":"2",
+      "bidang":"backend",
+      "deskripsi":"waktu itu pernah jadi backend"
+    },
+    {
+     "id":"3",
+      "bidang":"desain",
+      "deskripsi":"waktu itu pernah mendisain"
+    }
+  ]
+}
